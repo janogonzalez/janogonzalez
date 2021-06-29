@@ -1,16 +1,17 @@
-### Hi there 👋
+I’m Jano González, a Senior Software Engineer with over 15 years experience.
 
-<!--
-**janogonzalez/janogonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Availability
 
-Here are some ideas to get you started:
+I'm looking for Senior and Staff Software Engineer opportunities in Berlin
+around September.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I prefer working in cross functional teams that use short delivery cycles for
+rapid feedback, in companies that create their own products.
+The engineering problems of B2C companies with large amounts of traffic are
+specially interesting for me, where I can bring my experience in the backend
+and infrastructure domains.
+
+### Contact
+
+Send me a message on [Twitter](https://twitter.com/janogonzalez),
+[LinkedIn](https://www.linkedin.com/in/janogonzalez) or info@janogonzalez.com
