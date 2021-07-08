@@ -1,6 +1,11 @@
 I’m Jano González, a Senior Software Engineer with over 15 years experience.
 
-### Availability
+My past experience includes the design, implementation and operation of large
+scale distributed systems, driving large projects with many stakeholders,
+mentoring engineers and presenting complex ideas in a simple and engaging way
+to both technical and non-technical audiences.
+
+### ⚠️  Looking a for a new job 👀
 
 I'm looking for Senior and Staff Software Engineer opportunities in Berlin
 around September.
