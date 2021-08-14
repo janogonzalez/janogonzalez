@@ -1,20 +1,26 @@
-I’m Jano González, a Senior Software Engineer with over 15 years experience.
+I’m Jano González, a Software Engineer with over 15 years experience who has:
 
-My past experience includes the design, implementation and operation of large
-scale distributed systems, driving large projects with many stakeholders,
-mentoring engineers and presenting complex ideas in a simple and engaging way
-to both technical and non-technical audiences.
+- Designed, implemented and operated highly available distributed systems
+  serving millions of requests per minute with millisecond latency
+- Scoped and led to completion large projects with multiple stakeholders
+- Mentored tens of engineers
+- Led engineering teams of up to 7 people using agile practices
+- Spoken in conferences like
+  [LISA](https://www.usenix.org/conference/lisa19/presentation/gonzalez),
+  [RubyNation](http://rubynation2014.herokuapp.com/schedule/index?schedule=yes#jano_gonzález)
+  and
+  [JRubyConf](http://2013.jrubyconf.eu/speakers/janogonzalez.html)
 
 ### ⚠️  Looking a for a new job 👀
 
-I'm looking for Senior and Staff Software Engineer opportunities in Berlin
-around September.
+Currently looking for Staff Engineer position or similar in terms of high
+impact and independence in a mid-sized to large company:
 
-I prefer working in cross functional teams that use short delivery cycles for
-rapid feedback, in companies that create their own products.
-The engineering problems of B2C companies with large amounts of traffic are
-specially interesting for me, where I can bring my experience in the backend
-and infrastructure domains.
+- Specially interested in the engineering challenges of high traffic B2C
+  companies, also B2B companies in the observability and data processing space
+- Focused on Berlin and remote companies but willing to relocate to an English
+  or Spanish speaking country for the right opportunity
+- Available for interviewing in September and to start a new role in October
 
 ### Contact
 
