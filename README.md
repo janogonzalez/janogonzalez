@@ -11,17 +11,6 @@ I’m Jano González, a Software Engineer with over 15 years experience who has:
   and
   [JRubyConf](http://2013.jrubyconf.eu/speakers/janogonzalez.html)
 
-### ⚠️  Looking a for a new job 👀
-
-Currently looking for Staff Engineer position or similar in terms of high
-impact and independence in a mid-sized to large company:
-
-- Specially interested in the engineering challenges of high traffic B2C
-  companies, also B2B companies in the observability and data processing space
-- Focused on Berlin and remote companies but willing to relocate to an English
-  or Spanish speaking country for the right opportunity
-- Available for interviewing in September and to start a new role in October
-
 ### Contact
 
 Send me a message on [Twitter](https://twitter.com/janogonzalez),
