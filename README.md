@@ -13,5 +13,5 @@ I’m Jano González, a Software Engineer with over 15 years experience who has:
 
 ### Contact
 
-Send me a message on [Twitter](https://twitter.com/janogonzalez),
+Send me a message on
 [LinkedIn](https://www.linkedin.com/in/janogonzalez) or info@janogonzalez.com
